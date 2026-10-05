@@ -52,9 +52,9 @@ Below is a comparative matrix of leading commercial video editing software, sort
 
 ## ⚡ Open-Source GitHub Projects
 
-Open-source video editing software provides production-grade capabilities without subscriptions or privacy trade-offs. Below are top open-source projects sorted by **GitHub Star Count (Descending)** 🌟.
+Open-source video editing software provides production-grade capabilities without subscriptions or privacy trade-offs. Below are top open-source projects sorted by **GitHub Stars_Count (Descending)** 🌟.
 
-| 📦 Repository & Link | 🌟 GitHub Stars | ⚖️ License | 🐧 Platform Support | 📝 Description & Key Highlights |
+| 📦 Repository & Link | 🌟 GitHub_Stars | ⚖️ License | 🐧 Platform Support | 📝 Description & Key Highlights |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Blender VSE](https://github.com/blender/blender)** | [![Blender Stars](https://img.shields.io/github/stars/blender/blender?style=social&color=white)](https://github.com/blender/blender/stargazers) | GPL-2.0 | Windows, macOS, Linux | **3D Suite with Built-in Video Sequence Editor (VSE)**. Offers multi-channel audio, masking, compositing, real-time preview, and seamless 3D scene integration. |
 | **[Shotcut](https://github.com/mltframework/shotcut)** | [![Shotcut Stars](https://img.shields.io/github/stars/mltframework/shotcut?style=social&color=white)](https://github.com/mltframework/shotcut/stargazers) | GPL-3.0 | Windows, macOS, Linux | **Flexible FFmpeg-powered cross-platform NLE**. Supports hundreds of video/audio formats natively, 4K resolution, 3-way color wheels, keyframing, and animated GIFs. |
