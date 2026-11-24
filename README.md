@@ -68,6 +68,7 @@ Open-source video editing software provides production-grade capabilities withou
 | **[Pitivi](https://github.com/pitivi/pitivi)** | [![Pitivi Stars](https://img.shields.io/github/stars/pitivi/pitivi?style=social&color=white)](https://github.com/pitivi/pitivi/stargazers) | LGPL-2.1 | Linux (GNOME) | **Intuitive GNOME-native video editor**. Powered by GStreamer (GES). Designed for clean user interface, seamless desktop integration, and straightforward editing. |
 | **[Cap](https://github.com/capway/cap)** | [![Cap Stars](https://img.shields.io/github/stars/capway/cap?style=social&color=white)](https://github.com/capway/cap/stargazers) | AGPL-3.0 | Windows, macOS | **Open-source Loom alternative**. Lightweight screen recorder and quick video clip editor designed for shareable video messages and developer demos. |
 | **[Captura](https://github.com/MathewSachin/Captura)** | [![Captura Stars](https://img.shields.io/github/stars/MathewSachin/Captura?style=social&color=white)](https://github.com/MathewSachin/Captura/stargazers) | MIT | Windows | **Screen recording and webcam capture tool**. Includes basic trimming, audio mixing, hotkeys, and FFmpeg encoding integration. |
+| **[Vertov](https://github.com/ankurmans/vertov-screen-recorder)** | [![Vertov Stars](https://img.shields.io/github/stars/ankurmans/vertov-screen-recorder?style=social&color=white)](https://github.com/ankurmans/vertov-screen-recorder/stargazers) | AGPL-3.0 | Web (self-host on Cloudflare) | Record a screen or browser tab, cut video by transcript, and export MP4 or share a link. |
 
 ---
 
